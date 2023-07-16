@@ -2,6 +2,8 @@
 
 [English] [\[日本語\]](./README_JA.md)
 
+https://github.com/avcdsld/sakutaro-poem-move/assets/10495516/7e938096-4996-4e4c-b55f-f74f8fd9785b
+
 ## 🔍 What is this?
 
 - Experimental full-on-chain NFT and Dapp
