@@ -18,6 +18,7 @@
 - Move 言語で Sui のフルオンチェーン NFT を実装し、メインネットにデプロイできた
 - 所有者のアドレスによって中身が切り替わる Sui NFT をつくれた
 - Move 言語で書かれた [Base64 ライブラリ](https://github.com/movefuns/movefuns/blob/07ff5e27babcc9ffcb8dfd1db446a086ad116cb9/stdlib/sources/base64.move)を初めて Sui 上で動作検証できた
+- これらのチャレンジは、今後の Sui NFT プロジェクトの発展に貢献するでしょう
 
 ## 👨‍💻 開発したもの
 

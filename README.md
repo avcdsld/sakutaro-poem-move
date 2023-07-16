@@ -18,6 +18,7 @@
 - Implemented full-on-chain NFT on Sui using Move language and deployed it to Mainnet.
 - Created Sui NFTs where the content changes based on the owner's address.
 - Successfully tested a Move language-based [Base64 library](https://github.com/movefuns/movefuns/blob/07ff5e27babcc9ffcb8dfd1db446a086ad116cb9/stdlib/sources/base64.move) on the Sui blockchain for the first time.
+- These challenges will contribute to the future development of the Sui NFT project!
 
 ## 👨‍💻 Development Results
 
