@@ -1,4 +1,4 @@
-# ✒️「萩原朔太郎 詩の NFT」 - Sui Move バージョン
+# ✒️「萩原朔太郎 詩の NFT」 on Sui
 
 [\[English\]](./README.md) [日本語]
 

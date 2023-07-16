@@ -1,4 +1,4 @@
-# ✒️ “Sakutaro Poems NFT” - Sui Move ver.
+# ✒️ “Sakutaro Poem NFTs” on Sui
 
 [English] [\[日本語\]](./README_JA.md)
 
