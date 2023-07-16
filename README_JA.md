@@ -2,6 +2,8 @@
 
 [\[English\]](./README.md) [日本語]
 
+https://github.com/avcdsld/sakutaro-poem-move/assets/10495516/7e938096-4996-4e4c-b55f-f74f8fd9785b
+
 ## 🔍 これは何？
 
 - 実験的なフルオンチェーン NFT および Dapp
